@@ -250,7 +250,7 @@ function RegisterButtons({ setRole }) {
         className="btn btn-outline-dark px-4"
         onClick={() => setRole('doctor')}
       >
-        Sign Up as Doctor
+        Sign Up as doctor
       </button>
       <button
         className="btn text-white px-4"
